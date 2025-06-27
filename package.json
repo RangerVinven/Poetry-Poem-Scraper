@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fast-csv": "^5.0.2",
+    "jsdom": "^26.1.0"
+  }
+}
